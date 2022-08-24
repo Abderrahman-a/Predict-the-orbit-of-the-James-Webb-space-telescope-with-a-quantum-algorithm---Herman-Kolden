@@ -27,4 +27,4 @@ There is one jupytar notebook per task:
 - Task 2: Aplitude Encoding
 - Task 3: Quantum teleportation
 
-There also a presentation (in PDF and PPTX formats), in the main directory (Challenge-Solution), containing a short description of tasks 1, 2 and 3, plus the entire description of task 4.
+There is also a presentation (in PDF and PPTX formats), in the main directory (Challenge-Solution), containing a short description of tasks 1, 2 and 3, plus the entire description of task 4.
